@@ -7,3 +7,7 @@ Professional portfolio for Joshua Lowell. It used AWS and ReactJS.
 Brew
 Git and github
 SSH
+HTML
+CSS 
+Font Awesome
+Google Fonts
